@@ -1,7 +1,7 @@
 # 2023_10_30
 "Eat Your Own Catfood."
 
-Project Nonnon
+
 
 	Which one do I download?
 
@@ -29,7 +29,7 @@ Project Nonnon
 
 		+ some apps are sold in App Store, buy me a coffee plz!
 
-Project Nonnon
+
 
 	何をダウンロードすればいいのニャ？
 
