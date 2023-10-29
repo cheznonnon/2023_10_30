@@ -18,53 +18,6 @@ Project Nonnon
 		downloaded place is different by browsers or OSes
 
 
-	Unlock security feature
-
-		Windows
-			use file property of ZIP file
-
-
-
-
-	[ nonnon_win_ansi.zip ]
-
-		ANSI (A) Version, run on Win9x (95/98/Me)
-		also run on WinNT but can handle system language only
-
-		threre is 3GB memory limit
-
-		+ made by MinGW GCC
-
-	[ nonnon_win_unicode.zip ]
-
-		Unicode (W) Version, run on WinNT(NT4/2000/XP/Vista/7/8/8.1/10)
-		Win9x cannot run
-
-		64-bit Windows can run
-
-		threre is 3GB memory limit
-
-		+ made by MinGW GCC
-
-	[ nonnon_win_x64.zip ]
-
-		64-bit Version, 64-bit Windows can run
-		32-bit Windows cannot run
-
-		threre is no 3GB memory limit
-
-		+ made by Visual C++ 2017
-
-	[ nonnon_win_source.zip ]
-
-		source code for Win32
-		including resources like icons or sounds
-
-		you can easily compile with .BAT files (MinGW only)
-		you can get stand-alone EXE
-
-		+ "nonnon" folder in project_nonnon.zip is needed
-
 	[ project_nonnon.zip ]
 
 		shared source code between Mac and Windows
@@ -94,51 +47,6 @@ Project Nonnon
 		画面が遷移したら "Download" を選ぶニャ
 		どこにダウンロードされるかはブラウザや Windows によって違うニャ
 
-	セキュリティの解除方法
-
-		Windows
-			ZIP ファイルのプロパティから解除するニャ
-
-
-
-
-	[ nonnon_win_ansi.zip ]
-
-		ANSI (A) 版と呼ばれる Win9x (95/98/Me) で実行できるものだニャ
-		NT の系列でも実行できるのニャがシステム言語しか扱えないニャ
-
-		メモリが３ＧＢまでしか扱えないニャ
-
-		+ MinGW GCC によって作成されているニャ
-
-	[ nonnon_win_unicode.zip ]
-
-		Unicode (W) 版で Win9x では実行できないニャ
-		WinNT(NT4/2000/XP/Vista/7/8/8.1/10) で実行できるニャ
-		64-bit 版でも実行できるニャ
-
-		メモリが３ＧＢまでしか扱えないニャ
-
-		+ MinGW GCC によって作成されているニャ
-
-	[ nonnon_win_x64.zip ]
-
-		64-bit 版で 64-bit 版 Windows で実行できるニャ
-		32-bit OS では実行できないニャ
-
-		メモリが３ＧＢ以上扱えるニャ
-
-		+ Visual C++ 2017 で作成されているニャ
-
-	[ nonnon_win_source.zip ]
-
-		Win32 版のソースコードでニャ
-		アイコンやサウンドといったリソースも入っているニャ
-
-		バッチファイルを使っているので簡単にコンパイルできるニャ（MinGW のみ）
-		NonnonApps や GameConsole でなく単体の EXE が欲しい時にも使えるニャ
-
-		+ project_nonnon.zip に入っている "nonnon" フォルダが必要だニャ
 
 	[ project_nonnon.zip ]
 
