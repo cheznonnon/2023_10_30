@@ -13,8 +13,12 @@
 
 		click ZIP in GitHub page
 		choose "Download"
-		downloaded place is different by browsers or OSes
 
+
+	[ Win32 Version ]
+
+		support is ended at 2023.9.30
+		I think I will not code for Win32 Version
 
 	[ project_nonnon.zip ]
 
@@ -41,8 +45,12 @@
 
 		最新版のページを開いて ZIP の項目をクリックするニャ
 		画面が遷移したら "Download" を選ぶニャ
-		どこにダウンロードされるかはブラウザや Windows によって違うニャ
 
+
+	[ Win32 Version ]
+
+		2023.9.30 でサポート終了になったニャ
+		もう Win32 版を更新することはないと思うニャ
 
 	[ project_nonnon.zip ]
 
