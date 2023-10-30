@@ -32,7 +32,7 @@
 		+ "nonnon" folder in project_nonnon.zip is needed
 
 		+ some apps are sold in App Store, buy me a coffee plz!
-
+		+ search a word "cheznonnon" in App Store
 
 
 	何をダウンロードすればいいのニャ？
@@ -64,3 +64,5 @@
 		+ project_nonnon.zip に入っている "nonnon" フォルダが必要だニャ
 
 		+ いくつかのアプリは App Store で売られているニャ
+		+ ストアで "cheznonnon" で検索するニャ
+  
